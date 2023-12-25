@@ -1,22 +1,10 @@
 # list of all possible players (tuple of 3 positions of flap)
 PLAYERS = (
-    # red bird
-    (
-        "assets/sprites/redbird-upflap.png",
-        "assets/sprites/redbird-midflap.png",
-        "assets/sprites/redbird-downflap.png",
-    ),
     # blue bird
     (
         "assets/sprites/bluebird-upflap.png",
         "assets/sprites/bluebird-midflap.png",
         "assets/sprites/bluebird-downflap.png",
-    ),
-    # yellow bird
-    (
-        "assets/sprites/yellowbird-upflap.png",
-        "assets/sprites/yellowbird-midflap.png",
-        "assets/sprites/yellowbird-downflap.png",
     ),
 )
 
@@ -28,6 +16,8 @@ BACKGROUNDS = (
 
 # list of pipes
 PIPES = (
-    "assets/sprites/pipe-green.png",
-    "assets/sprites/pipe-red.png",
+    # "assets/sprites/vacuum.png",
+    "assets/sprites/del.png",
+    "assets/sprites/rachel_1.png",
+    "assets/sprites/rachel_2.png",
 )

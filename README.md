@@ -37,3 +37,11 @@ Demo
 ----------
 
 https://user-images.githubusercontent.com/2307626/130682424-9254b32d-efe0-406e-a6ea-3fb625a2df5e.mp4
+
+
+# THings to make it better:
+
+1) Randomize the pipes from list of pipes during the game.
+2) Change the noise of flaps and fail noise.
+3) Change the background to be more funny.
+4)
